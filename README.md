@@ -4,4 +4,4 @@
  Printer: Ender 3 Pro <br />
  Mainboard: BTT SKR 1.3 <br />
  Drivers: TMC2209 UART mode <br />
- Display: BTT TFT35 E3 V3.0
+ Display: BTT TFT35 E3 V3.0 (REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER)
